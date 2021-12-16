@@ -2,8 +2,7 @@
 
 void intro() {
 	printf("\n\n\tFILE EXPLORER");
-	printf("\n\n\tBY KRYVOHLJABOV EGOR");
-	printf("\n\n\t2-ond course");
+	printf("\n\n\tBY GTYP");
 	getchar();
 }
 
